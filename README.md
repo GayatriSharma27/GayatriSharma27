@@ -9,8 +9,6 @@ Fork on GitHub5199
 
 - 🌱 I’m currently learning **JavaScript, CSS**
 
-- 💬 Ask me about **C**
-
 - 📫 How to reach me **gayatrirahon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
