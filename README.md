@@ -7,7 +7,7 @@ Fork on GitHub5199
 
 - 🔭 I’m currently working on **My personal portfolio**
 
-- 🌱 I’m currently learning **JavaScript, CSS**
+- 🌱 I’m currently learning **JavaScript, Java**
 
 - 📫 How to reach me **gayatrirahon@gmail.com**
 
