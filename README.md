@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17732
-Fork on GitHub5199
+
 <h1 align="center">Hi 👋, I'm Gayatri Sharma</h1>
 <h3 align="center">A passionate student open to learn new things.</h3>
 
