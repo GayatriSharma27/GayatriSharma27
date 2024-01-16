@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">🌐Connect Here:</h2>
+## 🌐 Connect Here:
 
 ###
 
