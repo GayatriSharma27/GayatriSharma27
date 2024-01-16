@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript**
 
-- 📝 I regularly write articles on [https://gayatrisharma.hashnode.dev/](https://gayatrisharma.hashnode.dev/)
+- 📝 I write articles on [https://gayatrisharma.hashnode.dev/](https://gayatrisharma.hashnode.dev/)
 
 - 📫 How to reach me **Gayatrisharma02@outlook.com**
 
@@ -20,6 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GayatriSharma27&show_icons=true&locale=en" alt="gayatrisharma27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GayatriSharma27&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GayatriSharma27&hide_border=false" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrisharma27&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrisharma27" /> </p>
