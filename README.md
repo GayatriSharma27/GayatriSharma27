@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [https://gayatrisharma.hashnode.dev/](https://gayatrisharma.hashnode.dev/)
 
-- 📫 How to reach me **Gayatrisharma02@outlook.com**
+- 📫 How to reach me **Sharma.gayatri903@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
