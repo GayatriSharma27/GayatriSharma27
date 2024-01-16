@@ -60,7 +60,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriSharma27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GayatriSharma27&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GayatriSharma27&limit=5&theme=nord&combine_all_yearly_contributions=true)
