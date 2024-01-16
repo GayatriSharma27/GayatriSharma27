@@ -17,7 +17,7 @@
 
 ###
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=GayatriSharma27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GayatriSharma27&theme=dark&hide_border=false)<br/>
@@ -62,7 +62,7 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=GayatriSharma27&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GayatriSharma27&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ---
