@@ -2,9 +2,7 @@
   
 
 <div align="center">I'm a passionate Computer Programming Diploma student at Seneca Polytechnic, diving deep into the world of coding and software development. My journey in the realm of programming is driven by an insatiable curiosity and a love for crafting solutions that make a difference.</div>  
-  
 
-📑Checkout my Blogs @[Hashnode!](https://gayatrisharma.hashnode.dev/)  
   
 
 <br/>  
