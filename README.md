@@ -17,7 +17,7 @@
 
 ###
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=GayatriSharma27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GayatriSharma27&theme=dark&hide_border=false)<br/>
