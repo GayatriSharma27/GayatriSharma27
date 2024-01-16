@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Gayatri 👋</div>  
+# <div align="center">Hi! I'm Gayatri 👋</div>  
   
 
 <div align="center">I'm a passionate Computer Programming Diploma student at Seneca Polytechnic, diving deep into the world of coding and software development. My journey in the realm of programming is driven by an insatiable curiosity and a love for crafting solutions that make a difference.</div>  
@@ -66,6 +66,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GayatriSharma27&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GayatriSharma27&theme=dark&hide_border=false) 
 
 <br/>  
 
