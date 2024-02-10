@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gayatri!</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 
-- 🌱 I’m currently learning **Java, JavaScript**
+- 🌱 I’m currently learning Java, JavaScript
 
 - 📝 I write articles on [https://gayatrisharma.hashnode.dev/](https://gayatrisharma.hashnode.dev/)
 
-- 📫 How to reach me **Sharma.gayatri903@gmail.com**
+- 📫 How to reach me Sharma.gayatri903@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
