@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayatri!</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 <div align="right">
-<img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=626&ext=jpg&ga=GA1.2.980096685.1708323265&semt=ais" align="right" style="width: 20%" />
+<img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=626&ext=jpg&ga=GA1.2.980096685.1708323265&semt=ais" align="right" style="width: 23%" />
 </div>  
 
 - 🌱 I’m currently learning Java, JavaScript
