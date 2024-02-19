@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gayatri!</h1>
 <h3 align="center">Aspiring Web Developer</h3>
+<div align="right">
+<img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=626&ext=jpg&ga=GA1.2.980096685.1708323265&semt=ais" align="center" style="width: 100%" />
+</div>  
 
 - 🌱 I’m currently learning Java, JavaScript
 
@@ -11,6 +14,12 @@
 <p align="left">
 <a href="https://twitter.com/gayatri_sharma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gayatri_sharma2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gayatri27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayatri27" height="30" width="40" /></a>
+<a href="https://codepen.com/https://codepen.io/Gayatri-Sharma27/pens/" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/Gayatri_Sharma2" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
